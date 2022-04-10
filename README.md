@@ -23,9 +23,9 @@ Im FrontEnd developer from Mar del plata, Argentina. I love ReactJS, Typescript 
 ![Sqlite](https://img.shields.io/badge/-Sqlite-darkgreen?style=flat&logo=sqlite)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-darkgreen?style=flat&logo=mongodb)
 ![Firebase](https://img.shields.io/badge/-Firebase-darkgreen?style=flat&logo=Firebase)
-![Docker](https://img.shields.io/badge/-Github%20Actions-black?style=flat&logo=docker)
+![Docker](https://img.shields.io/badge/-Docker-black?style=flat&logo=docker)
 ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-black?style=flat&logo=google-cloud)
-![Github Actions](https://img.shields.io/badge/-Docker-black?style=flat&logo=github-actions&logoColor=white)
+![Github Actions](https://img.shields.io/badge/-Github%20actions-black?style=flat&logo=github-actions&logoColor=white)
 ![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat&logo=github)
 
 
@@ -33,7 +33,7 @@ Im FrontEnd developer from Mar del plata, Argentina. I love ReactJS, Typescript 
 
 <div>
   <a href="#">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matigumma&layout=compact&hide=Jupyter%20Notebook,CSS,C,Java,Ruby,Objetive-C,MakefileHTML,TSQL&langs_count=7&hide_title=true&locale=en&theme=algolia" alt="matigumma most used languages"/>
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matigumma&layout=compact&hide=Jupyter%20Notebook,CSS,C,Java,Ruby,Objetive-C,MakefileHTML,TSQL&langs_count=4&hide_title=true&locale=en&theme=algolia" alt="matigumma most used languages"/>
   </a>
 </div>
 
