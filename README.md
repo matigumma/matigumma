@@ -33,7 +33,7 @@ Im FrontEnd developer from Mar del plata, Argentina. I love ReactJS, Typescript 
 
 <div>
   <a href="#">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matigumma&layout=compact&hide=Jupyter%20Notebook,CSS,C,Java,Ruby,Objetive-C,MakefileHTML,TSQL&langs_count=4&hide_title=true&locale=en&theme=algolia" alt="matigumma most used languages"/>
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matigumma&layout=compact&hide=Jupyter%20Notebook,C,Java,Ruby,Makefile,TSQL&langs_count=4&hide_title=true&locale=en&theme=algolia" alt="matigumma most used languages"/>
   </a>
 </div>
 
