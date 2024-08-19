@@ -1,17 +1,15 @@
 ## Hi there, I'm Matias Gummá <img src="assets/hi.gif" width="30px">
 
-[![Linkedin Badge](https://img.shields.io/badge/-Matias%20Gummá-0072b1?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/matiasgumma/ "Connect on LinkedIn")
+[![Linkedin Badge](https://img.shields.io/badge/-Matias%20Gummá-0072b1?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/matias-gumma/ "Connect on LinkedIn")
 
 <div style="margin-bottom: 40px"></div>
 
 Im FrontEnd developer from Mar del plata, Argentina. \
-I love ReactJS, Typescript & CSS. Im at freewaves.live CTO, \
-undertaking to make happy communities around sport spots live streams. \
+I love ReactJS, Typescript. Im ex freewaves.live CTO, \
 Im always open to collaborating on projects! feel free to connect with me.
 
-- 🔭 I’m currently working on freewaves.live 
-- 🌱 I’m currently learning web3 ![Crypto](https://img.shields.io/badge/-crypto-black?style=flat&logo=bitcoin)
-- 📫 How to reach me: matias _[at]_ freewaves.live
+- 🔭 Working at Agrosistemas
+- 🌱 Learning GOlang
 
 <div style="margin-bottom: 40px"></div>
 
